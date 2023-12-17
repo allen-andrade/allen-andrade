@@ -16,6 +16,6 @@ I'm Allen, and I'm embarking on an exciting journey into the world of programmin
 - 💡 I'm open to suggestions, feedback, and constructive criticism.
 
 🎉 **Fun Fact**
-- 💡 In my previous life, I used to be a lawyer...
+- ⚖️ In my previous life, I used to be a lawyer...
 
 Thanks for stopping by and joining me on this coding adventure! 😄
